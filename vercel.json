@@ -1,0 +1,9 @@
+{
+    "routes": {
+      "/": {
+        "src": "bootstrap-practice.html",
+        "dest": "/index.html"
+      }
+    }
+  }
+  
