@@ -1,9 +1,9 @@
 {
-    "routes": {
-      "/": {
-        "src": "bootstrap-practice.html",
-        "dest": "/index.html"
+    "routes": [
+      {
+        "src": "/",
+        "dest": "/bootstrap-practice.html"
       }
-    }
+    ]
   }
   
